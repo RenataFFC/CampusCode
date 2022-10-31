@@ -1,0 +1,10 @@
+irb - inicia
+
+puts - Textto
+gests - entrada
+
+gets.chomp() - tira quebra de linha
+
+interpolação #{}
+
+exemplo " Bem vindo #{nome} "
